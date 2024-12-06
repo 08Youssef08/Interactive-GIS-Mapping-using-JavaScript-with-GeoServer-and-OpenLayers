@@ -45,13 +45,13 @@ Check that PostgreSQL is running on the port 5432. to match the port in the code
 ## Previews :
 
 1. **Displaying the Global View of the Map**
-   ![Global View](Previews\Global_View.png)
+   ![Global View](Previews/Global_View.png)
 
 2. **Displaying the local position**
-   ![Global position](Previews\myPosition.png)
+   ![Global position](Previews/myPosition.png)
 
 3. **Displaying Shapes Existing in the Database**
-   ![Displaying Shapes from Database](Previews\polygone.png)
+   ![Displaying Shapes from Database](Previews/polygone.png)
 
 ## Disclaimer :
 This work was done in the context of an academic mini-project at SUPCOM.
